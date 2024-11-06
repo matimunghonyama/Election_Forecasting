@@ -76,7 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👥 Contributors
-- [Your Name](https://github.com/yourusername)
+- [Matimu Nghonyama](https://github.com/yourusername)
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/matimu-nghonyama-240822263/](https://linkedin.com/in/matimunghonyama)
