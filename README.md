@@ -1,6 +1,7 @@
 # 🗳️ ML-Enhanced Election Probability Predictor
 
-![Election Prediction Dashboard](![image](https://github.com/user-attachments/assets/94c989ae-733b-4d0c-9151-6aa06ce9a594)
+![Election Prediction Dashboard](![image](https://github.com/user-attachments/assets/![Ml_dashboard](https://github.com/user-attachments/assets/d36618f8-6ec1-48c1-acd4-72823b320269)
+94c989ae-733b-4d0c-9151-6aa06ce9a594)
 )
 
 ## 📊 Project Overview
