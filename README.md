@@ -15,6 +15,7 @@ Monte Carlo Simulations: 1,000+ scenario modeling
 🛠️ Technology Stack
 Python 3.8+
 Machine Learning: scikit-learn, NumPy, Pandas
+Model Persistence: Two versions of the model are saved, one using Pickle and the other using Joblib due to compatibility issues with the recent Pickle library version
 Visualization: Plotly, Dash
 Statistical Analysis: SciPy
 Data Processing: Pandas, NumPy
