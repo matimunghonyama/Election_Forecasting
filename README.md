@@ -1,6 +1,6 @@
 # 🗳️ ML-Enhanced Election Probability Predictor
 
-![Election Prediction Dashboard](2024 Election ML-Enhanced Probability Dashboard)
+![Election Prediction Dashboard](C:\Users\eKasi_SWT_COM00862\Pictures\Ml_dashboard.png)
 
 
 ## 📊 Project Overview
