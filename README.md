@@ -1,6 +1,7 @@
 # 🗳️ ML-Enhanced Election Probability Predictor
 
-![Election Prediction Dashboard](https://raw.githubusercontent.com/yourusername/election-predictor/main/dashboard-preview.png)
+![Election Prediction Dashboard](![image](https://github.com/user-attachments/assets/94c989ae-733b-4d0c-9151-6aa06ce9a594)
+)
 
 ## 📊 Project Overview
 An advanced election prediction system that combines machine learning with Monte Carlo simulations to forecast election outcomes. Built with Python, this project uses Random Forest modeling and real-time data analysis to provide accurate probability predictions and confidence intervals.
@@ -49,10 +50,12 @@ Visit `http://localhost:8050` in your browser to access the dashboard.
 ## 📊 Dashboard Features
 
 ### Main Dashboard View
-![Dashboard Main View](https://raw.githubusercontent.com/yourusername/election-predictor/main/main-view.png)
+![Dashboard Main View](![image](https://github.com/user-attachments/assets/3e25b759-7562-4bbd-a948-7718eae428c0)
+)
 
 ### Feature Importance Analysis
-![Feature Importance](https://raw.githubusercontent.com/yourusername/election-predictor/main/feature-importance.png)
+![Feature Importance](![image](https://github.com/user-attachments/assets/45409ebc-488c-4759-96ab-fe9e6aff4be8)
+)
 
 ## 📝 Model Features
 - Unemployment Rate
